@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "adhd-and-obsessive-thoughts-insecure-woman-ruminating-questions-GettyImages-878037424.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
